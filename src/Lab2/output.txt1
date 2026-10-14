@@ -1,0 +1,8 @@
+"C:\Program Files\Java\jdk-23\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2025.3\lib\idea_rt.jar=53162" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\khali\IdeaProjects\Lab2\out\production\Lab2 lab2.Exercise1
+Enter text: hi java student
+Characters count: 15
+Words count: 3
+Capitalized last letter: hI javA studenT
+Replaced 'i' with 'y': hy java student
+
+Process finished with exit code 0

@@ -1,0 +1,13 @@
+"C:\Program Files\Java\jdk-23\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2025.3\lib\idea_rt.jar=53178" -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath C:\Users\khali\IdeaProjects\Lab2\out\production\Lab2 lab2.Exercise2
+Enter 4 numbers:
+60
+70
+80
+90
+Reverse order: 90.0 80.0 70.0 60.0
+Sum: 300.0
+Average: 75.0
+Maximum: 90.0
+Minimum: 60.0
+
+Process finished with exit code 0
